@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello, I'm ryohamag 👋
 
-<!--
-**ryohamag/ryohamag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student of Nagoya Institute of Technology.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Kotlin, Java
+- **Tools**: Git, Docker, VS Code, AndroidStudio
+
+## Connect with me
+
+- [Twitter](https://twitter.com/ryo_hamag)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryohamag&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ryohamag&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=ryohamag&theme=juicyfresh&no-bg=true" />
