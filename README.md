@@ -5,7 +5,7 @@ I'm a student of Nagoya Institute of Technology.
 ## Skills
 
 - **Languages**: Kotlin, Java
-- **Tools**: Git, Docker, VS Code, AndroidStudio
+- **Tools**: Git, VS Code, AndroidStudio
 
 ## Connect with me
 
