@@ -21,6 +21,7 @@ I'm a student of Nagoya Institute of Technology.
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark" alt="Vercel" height="50">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" alt="Postman" height="50">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark" alt="GCP" height="50">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=discordbots&theme=dark" alt="DiscordBots" height="50">
 </p>
 
 # Portfolio💻
