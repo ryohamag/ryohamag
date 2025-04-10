@@ -1,9 +1,10 @@
-## Hello, I'm ryohamag 👋
+<div align="center">
+
+# Hello, I'm ryohamag 👋
 
 I'm a student of Nagoya Institute of Technology.
 
-## Tech Stack🔧
-
+# Tech Stack🔧
 <table>
   <tr>
     <th>Skills</th>
@@ -31,9 +32,21 @@ I'm a student of Nagoya Institute of Technology.
     </td>
 </table>
 
-## Connect with me
+# Portfolio💻
 
-- [Twitter](https://twitter.com/ryo_hamag)
+### 第2回C0deハッカソンwithピクシブ
+### メンター賞👑
+<img src="https://github.com/user-attachments/assets/06813932-0b4a-48d1-880d-6bc10cc61914" width="500px" alt="サボLockサムネ">
+
+### [リポジトリはこちら](https://github.com/ryohamag/DoStudy-Android)　
+<a href="https://play.google.com/store/apps/details?id=com.websarva.wings.dostudy_android" target="_blank">
+  <img src="https://nightworks.jp/wp-content/uploads/2019/06/btn_download_app_android.png" width="200px" alt="サボLockサムネ">
+</a>
+
+#### ・プロダクト名:サボLock
+#### ・担当領域:Android側ほぼ全て
+
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryohamag&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
@@ -41,3 +54,5 @@ I'm a student of Nagoya Institute of Technology.
 
 
 <img src="https://github-profile-trophy.vercel.app/?username=ryohamag&theme=juicyfresh&no-bg=true" />
+
+<div/>
