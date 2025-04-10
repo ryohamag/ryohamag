@@ -4,33 +4,24 @@
 
 I'm a student of Nagoya Institute of Technology.
 
-# Tech Stack🔧
-<table>
-  <tr>
-    <th>Skills</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark" alt="Kotlin">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose&theme=dark" alt="JetpackCompose">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java">
-      <img src="https://skillicons.dev/icons?i=c" alt="C">
-      <img src="https://skillicons.dev/icons?i=react" alt="React">
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">
-      <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python">
-      <img src="https://skillicons.dev/icons?i=processing" alt="Processing">
-    </td>
-    <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" alt="django">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio&theme=dark" alt="django">
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark" alt="Vercel">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" alt="Postman">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark" alt="GCP">
-    </td>
-</table>
+## Tech Stack 🔧
+
+### Languages ⚒️
+
+| Intermediate | Beginner |
+| ------------ | -------- |
+| <img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin&theme=dark" alt="Kotlin" height="50"> <img src="https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose&theme=dark" alt="Jetpack Compose" height="50"> <img src="https://skillicons.dev/icons?i=java" alt="Java" height="50"> | <img src="https://skillicons.dev/icons?i=c" alt="C" height="50"> <img src="https://skillicons.dev/icons?i=react" alt="React" height="50"> <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="50"> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50"> <img src="https://skillicons.dev/icons?i=python" alt="Python" height="50"> <img src="https://skillicons.dev/icons?i=processing" alt="Processing" height="50"> |
+
+### Tools 🛠️
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" alt="GitHub" height="50">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio&theme=dark" alt="Android Studio" height="50">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark" alt="Vercel" height="50">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark" alt="Postman" height="50">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark" alt="GCP" height="50">
+</p>
 
 # Portfolio💻
 
