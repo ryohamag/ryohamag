@@ -43,8 +43,38 @@ I'm a student of Nagoya Institute of Technology.
   <img src="https://nightworks.jp/wp-content/uploads/2019/06/btn_download_app_android.png" width="200px" alt="サボLockサムネ">
 </a>
 
-#### ・プロダクト名:サボLock
-#### ・担当領域:Android側ほぼ全て
+#### ・プロダクト名：サボLock
+#### ・担当領域：Android側ほぼ全て
+<h4>勉強中にスマホを絶対に触らせないアプリ<h4/>
+
+<hr>
+
+### SysHack 2025 春の陣
+### サイバーエージェント賞👑
+
+<img width="500px" src="https://github.com/user-attachments/assets/e349b7b4-394d-4a61-905b-9f3ee6a78c59">
+
+### [リポジトリはこちら](https://github.com/orgs/SketchShifter/repositories)
+### [公開サイト](https://www.serendicode-sub.click/)
+
+#### ・プロダクト名：SS.js/Processing Sketch Book
+#### ・担当領域：Processing Sketch Bookのフロントの下地 <br> (仕上げは他メンバーに協力してもらいました)
+<h4>Processingで作った作品を共有できるアプリ。プレビューもできる。</h4>
+
+<hr>
+
+### 個人開発その1
+### 講義の自由課題で作成
+
+<img width="500px" src="https://github.com/user-attachments/assets/79c5567e-6ec3-4f68-89e5-af1c7415703a">
+
+### [リポジトリはこちら](https://github.com/ryohamag/HorseRacingGame)
+
+#### ・プロダクト名：HorseRacingGame
+#### ・使用技術：C言語のみ
+<h4>競馬のギャンブルを体験できるゲーム</h4>
+
+<hr>
 
 
 
