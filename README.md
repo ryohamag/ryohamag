@@ -64,9 +64,9 @@ I'm a student of Nagoya Institute of Technology.
 <hr>
 
 ### 個人開発その1
-### 講義の自由課題で作成
+### 講義の自由課題で作成🏇
 
-<img width="500px" src="https://github.com/user-attachments/assets/79c5567e-6ec3-4f68-89e5-af1c7415703a">
+<img height="300px" src="https://github.com/user-attachments/assets/79c5567e-6ec3-4f68-89e5-af1c7415703a">
 
 ### [リポジトリはこちら](https://github.com/ryohamag/HorseRacingGame)
 
@@ -76,7 +76,18 @@ I'm a student of Nagoya Institute of Technology.
 
 <hr>
 
+### 個人開発その2(鋭意開発中)
+### 完全な趣味🐎
 
+<img height="500px" src="https://github.com/user-attachments/assets/aa48d155-0961-4522-87c9-4ce079a9ed64">
+
+### [リポジトリはこちら(サーバー側)](https://github.com/ryohamag/KeibaPS_Server)
+### [リポジトリはこちら(Android側)](https://github.com/ryohamag/KeibaPredictSupporter)
+
+#### ・プロダクト名：KeibaPredictSupporter
+<h4>Pythonによるスクレイピングでデータを収集しています。<h4/>
+
+<hr>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryohamag&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
