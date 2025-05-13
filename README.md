@@ -44,6 +44,9 @@ I'm a student of Nagoya Institute of Technology.
 ### SysHack 2025 春の陣
 ### サイバーエージェント賞👑
 
+### 技育博 2025 vol2
+### DeNA賞👑
+
 <img width="500px" src="https://github.com/user-attachments/assets/e349b7b4-394d-4a61-905b-9f3ee6a78c59">
 
 ### [リポジトリはこちら](https://github.com/orgs/SketchShifter/repositories)
